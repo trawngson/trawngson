@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi there!
 
-<!--
-**trawngson/trawngson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🇻🇳 Tiếng Việt ở dưới / Vietnamese below**
 
-Here are some ideas to get you started:
+My name is Son. I'm a high school junior at Vinschool The Harmony learning computer science and programming. I'm very interested in computer vision and mobile app development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aside from coding fun projects, I also oversee and co-host tech solution competitions at my school on behalf of [Vinschool Technology Club](https://facebook.com/vscvtec) as the Vice President.
+
+- ♻️ I'm currently working with my friends on [**AWARE**](https://github.com/trawngson/aware), an AI-driven recycling guidance app powered by YOLO26 and open-source Roboflow datasets.
+- 🧑‍💻 I'm proficient in Java and Python.
+- Outside the 🖥️ terminal, you can find me 💪 weightlifting and 📚 cramming for exams.
+- 📧 Please reach out to me by email at sonntt.az@gmail.com
+
+–––––––––––––––––––––––
